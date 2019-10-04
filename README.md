@@ -3,7 +3,7 @@ By [Kimia Dinashi](https://github.com/dinashi) and [Ramin Toosi](https://github.
 
 
 ## Introduction
-This repository could be used for generating synthetic 3D and 2D face datasets with large variations in face shape and expression.
+This repository is the implementation of the paper entitled "[Face Manifold: Manifold Learning for Synthetic Face Generation](http://arxiv.org/abs/1910.01403)". This could be used for generating synthetic 3D and 2D face datasets with large variations in face shape and expression.
 
 ## Getting Started
 
